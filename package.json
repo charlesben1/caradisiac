@@ -1,0 +1,28 @@
+{
+  "name": "caradisiac",
+  "version": "1.0.0",
+  "description": "api caradisiac",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesben1/caradisiac.git"
+  },
+  "author": "Charles BENIZRI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesben1/caradisiac/issues"
+  },
+  "homepage": "https://github.com/charlesben1/caradisiac#readme",
+  "dependencies": {
+    "elasticsearch": "^14.2.1",
+    "express": "^4.16.3",
+    "node-car-api": "github:92bondstreet/node-car-api",
+    "node-fetch": "^2.1.1"
+  }
+}
